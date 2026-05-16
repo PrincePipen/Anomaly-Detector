@@ -46,7 +46,7 @@ anomaly if |x_i - MA_i| >= threshold × σ
 
 1. Place the project folder inside your XAMPP `htdocs` directory.
 2. Start **Apache** from the XAMPP Control Panel.
-3. Open a browser and navigate to: `http://localhost/DELETE/index.php`
+3. Open a browser and navigate to: `http://localhost/index.php`
 4. Upload a CSV file or paste comma-separated values.
 5. Adjust the threshold and detection method, then click **Run Detection**.
 6. Interact with the chart — hover for tooltips, scroll to zoom, drag to pan.
